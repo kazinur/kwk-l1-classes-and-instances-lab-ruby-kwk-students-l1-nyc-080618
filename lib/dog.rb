@@ -1,6 +1,6 @@
 class Dog 
 end
-
+#we are using end because we need to end the class. 
 fido = Dog.new
 snoopy = Dog.new 
 lassie = Dog.new 
