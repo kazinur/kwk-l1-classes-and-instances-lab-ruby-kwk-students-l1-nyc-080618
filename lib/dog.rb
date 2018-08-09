@@ -1,7 +1,5 @@
 class Dog 
 end
-
-# we are using the end becaue it would end the class 
 fido = Dog.new
 snoopy= Dog.new 
 lassie= Dog.new 
