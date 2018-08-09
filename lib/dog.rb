@@ -16,10 +16,10 @@ class Dog
   #   def name2 
   #     @name2
   #   end 
-   end 
+  # end 
    
-   dogs_name= Dog.new("fido","snoopy", "lassie")
-     puts dogs_name.name
-     puts dogs_name.name1
-     puts dogs_name.name2 
+  # dogs_name= Dog.new("fido","snoopy", "lassie")
+  #   puts dogs_name.name
+  #   puts dogs_name.name1
+  #   puts dogs_name.name2 
      
